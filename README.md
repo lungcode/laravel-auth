@@ -8,7 +8,7 @@
 #### Phần 4 - Lấy dữ liệu route acion đã gán cho user thông qua role [Link youtube](https://www.youtube.com/watch?v=RhFgMnORuj0&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=4)
 #### Phần 5 - Danh sách tất cả route action của admin khi thêm mới role [Link youtube](https://www.youtube.com/watch?v=Aq_ZvY0r_0M&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=5)
 #### Phần 6 - Chỉnh sửa role, Checked các route action khi chỉnh sửa [Link youtube](https://www.youtube.com/watch?v=8oPaBmVnGDs&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=6)
-#### Phần 7 - Chỉnh sửa user, Checked các group đã gán cho user [https://www.youtube.com/watch?v=WUS4E4A_jXU&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=7)
+#### Phần 7 - Chỉnh sửa user, Checked các group đã gán cho user [Link youtube](https://www.youtube.com/watch?v=WUS4E4A_jXU&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=7)
 #### Phần 8 - ÁP dụng phần quyền - thông báo lỗi khi không có quyền [Link youtube](https://www.youtube.com/watch?v=rOvVf6NNV1M&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=8)
 #### Phần 9 - Quản lý menu - Ẩn các menu khi user không có quyền [Link youtube](https://www.youtube.com/watch?v=rLUvmrzc0EA&list=PLFWDoeAHRLTaotGFjm6JZMZfhxCanFCGs&index=9)
 
